@@ -22,7 +22,6 @@ import SingleDeck from "./pages/SingleDeck";
 import "./App.css";
 import { Container } from "@mui/material";
 import CreateDeck from "./pages/CreateDeckName";
-import AddToDeck from "./pages/AddToDeck";
 
 import "@fontsource/roboto/300.css";
 import "@fontsource/roboto/400.css";
@@ -30,8 +29,6 @@ import "@fontsource/roboto/500.css";
 import "@fontsource/roboto/700.css";
 
 import { ThemeProvider, createTheme } from "@mui/material/styles";
-import CssBaseline from "@mui/material/CssBaseline";
-import SingleDeckCard from "./components/SingleDeckCard";
 
 // Construct our main GraphQL API endpoint
 const httpLink = createHttpLink({
