@@ -17,9 +17,7 @@ import Search from "./pages/Search";
 import Decks from "./components/Deck";
 import Wishlist from "./pages/Wishlist";
 import MysteryCard from "./pages/MysteryCard";
-import SingleCard from "./components/SingleCard";
 import SingleDeck from "./pages/SingleDeck";
-// import Title from "./pages/Title";
 
 import "./App.css";
 import { Container } from "@mui/material";
