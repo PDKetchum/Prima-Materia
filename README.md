@@ -2,7 +2,7 @@
 
 ## Links
 
-View the deployed app: https://prima-materia-84.herokuapp.com/
+View the deployed app: https://pdketchum-prima-materia.herokuapp.com/
 
 ## Screenshot
 
@@ -60,8 +60,7 @@ Attila Bordan - https://github.com/bordanattila
 
 ## Questions
 
-If you have questions please contact any of the developers listed: Reed Meher / reed@meherdevs.com
-Check out more of our work on Github at [archonology](https://github.com/archonology).
+If you have questions please contact any of the developers listed.
 
 ## Badges
 
